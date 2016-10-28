@@ -1,0 +1,27 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "URL shortener service built on Node.js and Express. Uses ES6 syntax with Babel transpilation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "microservice",
+    "node",
+    "express",
+    "babel",
+    "es6"
+  ],
+  "author": "Gorka Hernandez <info@gorkahernandez.com> (https://www.gorkahernandez.com)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-register": "^6.18.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5"
+  }
+}
